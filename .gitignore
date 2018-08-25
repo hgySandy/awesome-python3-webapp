@@ -1,0 +1,10 @@
+*.py[cod]
+.idea/
+*.egg
+*.egg-info
+dist
+build
+*__pycache__*
+*.swp
+.tox
+sample/
